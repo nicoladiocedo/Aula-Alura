@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<header>
+  <nav class="menu">
+    <ul>
+      <Li><a href="#">Sobre</a></li>
+      <Li><a href="#">Portifolio</a></li>
+      <Li><a href="#">Contato</a></li>
+    </ul>
+  </nav>
+  <h1 class="site-tittle">Nicola Diocedo</h1>
+  <h2 class="site-subtitle">web developer</h2>
+</header>
