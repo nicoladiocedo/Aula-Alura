@@ -1,0 +1,11 @@
+<header>
+  <nav class="menu">
+    <ul>
+      <li><a href="#">Sobre</a></li>
+      <li><a href="#">Portifolio</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul>
+  </nav>
+  <h1 class="site-tittle">Nicola Diocedo</h1>
+  <h2 class="site-subtitle">web developer</h2>
+</header>
